@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proga\\course\\Signal Receiver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\saveoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\saveoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|C:\\proga\\course\\Signal Receiver\\signal receiver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\hidingwindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\hidingwindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|C:\\proga\\course\\Signal Receiver\\signal receiver\\hidingwindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\hidingwindows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|C:\\proga\\course\\Signal Receiver\\signal receiver\\movablechartoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\movablechartoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|c:\\proga\\course\\signal receiver\\signal receiver\\monitorbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\monitorbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|C:\\proga\\course\\Signal Receiver\\signal receiver\\saveoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\saveoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|C:\\proga\\course\\Signal Receiver\\signal receiver\\monitorbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA790360-D3B7-4337-A489-DFC9DA51EBB2}|Signal Receiver\\Signal Receiver.csproj|solutionrelative:signal receiver\\monitorbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chart.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Chart.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\Chart.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Chart.cs",
+              "RelativeToolTip": "Signal Receiver\\Chart.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:01:11.394Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form1.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\Form1.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form1.cs",
+              "RelativeToolTip": "Signal Receiver\\Form1.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:43:10.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form1.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\Form1.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form1.cs [Design]",
+              "RelativeToolTip": "Signal Receiver\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:47:17.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HidingWindows.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\HidingWindows.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\HidingWindows.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\HidingWindows.cs",
+              "RelativeToolTip": "Signal Receiver\\HidingWindows.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:50:39.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HidingWindows.cs [Design]",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\HidingWindows.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\HidingWindows.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\HidingWindows.cs [Design]",
+              "RelativeToolTip": "Signal Receiver\\HidingWindows.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:50:43.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\Form1.Designer.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form1.Designer.cs",
+              "RelativeToolTip": "Signal Receiver\\Form1.Designer.cs",
+              "ViewState": "AQIAAO0CAAAAAAAAAAAuwPgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:02:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form2.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\Form2.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Form2.cs",
+              "RelativeToolTip": "Signal Receiver\\Form2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:36:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveOperation.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\SaveOperation.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\SaveOperation.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\SaveOperation.cs",
+              "RelativeToolTip": "Signal Receiver\\SaveOperation.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwEYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:13:58.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovableChartOptions.cs [Design]",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\MovableChartOptions.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\MovableChartOptions.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\MovableChartOptions.cs [Design]",
+              "RelativeToolTip": "Signal Receiver\\MovableChartOptions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:37:10.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Window.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\Window.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\Window.cs",
+              "RelativeToolTip": "Signal Receiver\\Window.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:22:11.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonitorButtons.cs",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\MonitorButtons.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\MonitorButtons.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\MonitorButtons.cs",
+              "RelativeToolTip": "Signal Receiver\\MonitorButtons.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:45:18.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveOperation.cs [Design]",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\SaveOperation.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\SaveOperation.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\SaveOperation.cs [Design]",
+              "RelativeToolTip": "Signal Receiver\\SaveOperation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:17:50.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonitorButtons.cs [Design]",
+              "DocumentMoniker": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\MonitorButtons.cs",
+              "RelativeDocumentMoniker": "Signal Receiver\\MonitorButtons.cs",
+              "ToolTip": "C:\\proga\\course\\Signal Receiver\\Signal Receiver\\MonitorButtons.cs [Design]",
+              "RelativeToolTip": "Signal Receiver\\MonitorButtons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:52:25.154Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Chart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HidingWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MonitorButtons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovableChartOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceiptHandling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaveOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Form1.Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
